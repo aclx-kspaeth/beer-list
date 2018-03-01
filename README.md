@@ -9,6 +9,7 @@ If you brought in beer for the Brookfield, WI Accelogix office create an issue o
 
 ## Template
 Create a new issue with the following template if you brought in beer for the Brookfield, WI Accelogix office.
+
     -------------------------------
     - Name: <YOUR_NAME>
     - Date: <DATE_BROUGHT>
